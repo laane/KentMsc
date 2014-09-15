@@ -1,4 +1,4 @@
 KentMsc
 =======
 
-This repository has moved and is now called "nfcmillionaire" in my repos (laane/nfcmillionaire)
+This repository has moved and is now called "nfcmillionaire": https://github.com/laane/nfcmillionaire
